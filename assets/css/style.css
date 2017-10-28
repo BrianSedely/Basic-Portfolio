@@ -1,0 +1,265 @@
+header {
+    width: 100%;
+    height: 70px;
+    position: relative;
+    background: #ffffff;
+    border: white;
+    margin-bottom: 10px;
+    margin-left: -10px;
+}
+
+.name {
+    width: 240px;
+    height: 55px;
+    margin: 0px;
+    float: left;
+    position: relative;
+    left: 10%;
+    padding-top: 15px;
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+}
+body {
+    background-color: lightgray;
+    width: 960px;
+}
+.headerPanel {
+    float: right;
+    padding-top: 20px;
+    margin-right: 50px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.about {
+    display: inline-block;
+    right: 0;
+}
+
+.portfolio {
+    display: inline-block;
+    right: 0;
+}
+
+.contact {
+    display: inline-block;
+    right: 0;
+}
+
+.submit {
+    background-color: teal;    color: white;
+    border: teal 3px solid;
+}
+
+.aboutMeBox {
+    left: 30%;
+    float: left;
+    width: 650px;
+    height: 420px;
+    border: solid;
+    border-color: white;
+    background-color: white;
+    color: teal;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+.aboutMeTitle {
+    padding-left: 5px;
+}
+
+.aboutMeText {
+    margin: 0px 5px 0px 5px;
+    padding: 0px 11px 0px 11px;
+    text-align: justify;
+}
+
+.family {
+    height: 50%;
+    width: 25%;
+    float: left;
+    margin: 5px;
+    margin-top: 0px;
+    padding: 0px;
+    padding-right: 11px;
+}
+
+#message:hover {
+    background-color: paleturquoise;
+}
+#message:active {
+    background-color: paleturquoise;
+}
+.connectBox {
+    float: left;
+    width: 270px;
+    height: 180px;
+    margin-left: 10px;
+    margin-top: 10px;
+    padding-top: 10px;
+    background-color: white;
+}
+.connect {
+    float: left;
+    width: 270px;
+    height: 40px;
+    background-color: white;
+    color: teal;
+    text-align: center;
+}
+
+.linkedIn {
+    height: 91px;
+    width: 91px;
+    position: relative;
+    float: left;
+    top: -7px;
+}
+
+.gitHub {
+    height: 74px;
+    width: 74px;
+    position: relative;
+    float: left;
+    left: 02%;
+    top: 10%;
+    color: black;
+    fill-opacity: black;
+}
+.stackOverflow {
+    height: 74px;
+    width: 74px;
+    position: relative;
+    float: left;
+    top: 10%;
+    left: 06%;
+}
+
+.boxset {
+    float: left;
+    height: 130px;
+    width: 130px;
+    /* z-index: -1;
+    margin: 5px 20px 5px 30px;
+    padding: 5px; */
+}
+
+.boxsetdiv {
+    height: 130px;
+    width: 130px;
+    margin: 15px 10px 15px 60px;
+    border: 0;
+    padding: 0;
+    position: relative;
+    float: left;
+}
+
+.Box-1 {
+    text-align: center;
+    z-index: -1;
+}
+
+.Box-2 {
+    text-align: center;
+    z-index: -1;
+}
+
+
+.Box-3 {
+
+    text-align: center;
+    z-index: -1;
+}
+
+
+.Box-4 {
+
+    text-align: center;
+    z-index: -1;
+}
+.Box-5 {
+    text-align: center;
+    z-index: -1;
+}
+
+.Box-6 {
+    text-align: center;
+    z-index: -1;
+}
+
+
+.portfolioItem1 {
+    width: 130px;
+    left: 10px;
+    text-align: center;
+    position: absolute;
+    left: 0px;
+    bottom: 10px;
+    background-color: teal;
+    color: white;
+}
+.portfolioItem2 {
+    width: 130px;
+    left: 10px;
+    text-align: center;
+    position: absolute;
+    left: 0px;
+    bottom: 10px;
+    background-color: teal;
+    color: white;
+}
+.portfolioItem3 {
+    width: 130px;
+    left: 10px;
+    text-align: center;
+    position: absolute;
+    left: 0px;
+    bottom: 10px;
+    background-color: teal;
+    color: white;
+}
+.portfolioItem4 {
+    width: 130px;
+    left: 10px;
+    text-align: center;
+    position: absolute;
+    left: 0px;
+    bottom: 10px;
+    background-color: teal;
+    color: white;
+}
+.portfolioItem5 {
+    width: 130px;
+    left: 10px;
+    text-align: center;
+    position: absolute;
+    left: 0px;
+    bottom: 10px;
+    background-color: teal;
+    color: white;
+}
+.portfolioItem6 {
+    width: 130px;
+    left: 10px;
+    text-align: center;
+    position: absolute;
+    left: 0px;
+    bottom: 10px;
+    background-color: teal;
+    color: white;
+}
+
+
+footer {
+    position: fixed;
+    bottom: 0%;
+    text-align: center;
+    width: 960px;
+    height: 40px;
+    border-top: teal 5px solid;
+    background-color: slategray;
+    padding-bottom: 3px;
+}
